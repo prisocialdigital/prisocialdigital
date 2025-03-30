@@ -3,6 +3,7 @@
 - 🌱 Atualmentte estou desenvolvendo e aprimorando meus conhecimentos
 - 💞️ Estou aqui para colaborar e compartilhar experiências
 - 📫 Meus canais de contatos sociais são @prisocialdigital (tiktok/ Instagram/ Linkedin)
+- E-mail: prisocialdigital@gmail.com
 
 <!---
 prisocialdigital/prisocialdigital is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
