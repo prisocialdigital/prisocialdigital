@@ -1,8 +1,8 @@
 - 👋 Olá, sou Priscìla Souza (@prisocialdigital)
-- 👀 Tenho interesse em desenvolvimento web/full-stack e ciência de dados
-- 🌱 Atualmentte estou desenvolvendo e aprimorando meus conhecimentos
+- 👀 Tenho interesse em desenvolvimento web/full-stack e Engenharia de Software alinhado a análise de negócios
+- 🌱 Atualmente estou desenvolvendo e aprimorando meus conhecimentos
 - 💞️ Estou aqui para colaborar e compartilhar experiências
-- 📫 Meus canais de contatos sociais são @prisocialdigital (tiktok/ Instagram/ Linkedin)
+- 📫 Meus canais de contatos sociais são @prisocialdigital (tiktok/ Instagram/ Linkedin/ Youtube)
 - E-mail: prisocialdigital@gmail.com
 
 <!---
